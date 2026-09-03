@@ -158,7 +158,9 @@ The trained model is saved as:
 best.pt
 ```
 
-> **Note:** The trained model file is not included in this repository because of GitHub file-size limitations.
+> **Note:** The trained model (`best.pt`) can be downloaded from the link below:
+
+[Download the trained model] https://drive.google.com/drive/folders/1fEBCYEi-W9u5rck7lRMZNYrujq6cf3FF?usp=sharing
 
 ---
 

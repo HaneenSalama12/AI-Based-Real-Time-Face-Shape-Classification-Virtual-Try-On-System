@@ -1,7 +1,12 @@
 ultralytics
-opencv-python
+torch
+torchvision
 numpy
 pandas
+scikit-learn
 matplotlib
-mediapipe
+seaborn
+PyYAML
 Pillow
+opencv-python
+mediapipe

@@ -160,7 +160,7 @@ best.pt
 
 > **Note:** The trained model (`best.pt`) can be downloaded from the link below:
 
-[Download the trained model] https://drive.google.com/drive/folders/1fEBCYEi-W9u5rck7lRMZNYrujq6cf3FF?usp=sharing
+[Download the trained model](https://drive.google.com/drive/folders/1fEBCYEi-W9u5rck7lRMZNYrujq6cf3FF?usp=sharing)
 
 ---
 
